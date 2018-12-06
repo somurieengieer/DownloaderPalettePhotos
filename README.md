@@ -1,4 +1,4 @@
-Description
+DownloaderPaletteStorePhotos
 ====
 
 パレットプラザの写真を一括ダウンロードするためのプログラム。
